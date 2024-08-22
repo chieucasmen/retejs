@@ -1,0 +1,11 @@
+:host {
+  display: inline-block;
+  cursor: pointer;
+  border: 1px solid grey;
+  width: 100%;
+  height: 100%;
+  vertical-align: middle;
+  background: #fff;
+  z-index: 2;
+  box-sizing: border-box;
+}
